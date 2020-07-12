@@ -1,10 +1,5 @@
 def display_board
-puts board = [' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ']
-  puts "   |   |   "
-  puts "-----------"
-  puts "   |   |   "
-  puts "-----------"
-  puts "   |   |   "
+puts board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 end
 
 
